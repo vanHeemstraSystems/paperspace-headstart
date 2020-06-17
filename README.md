@@ -5,6 +5,11 @@ Based on "Paperspace" at https://paperspace.com
 
 GPU cloud tools built for developers. Powering next-generation workflows and the future of intelligent applications.
 
+** Pre-requisite **
+Download the App for your platform (automatically recognized when clicking the download link) from:
+
+https://www.paperspace.com/app
+
 ## 100 GRADIENT
 Production tools for Machine Learning.
 
