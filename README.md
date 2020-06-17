@@ -20,9 +20,9 @@ See also [README.md](./200/README.md)
 ### 200.100 Cloud Desktops
 The future of VDI. Supercharge your business with the next generation of computing infrastructure.
 
-See also [README.md](./200/100/README.md)
-
 See also https://www.paperspace.com/vdi
+
+See also [README.md](./200/100/README.md)
 
 ## 300 API
 An entire GPU cloud at your fingertips
